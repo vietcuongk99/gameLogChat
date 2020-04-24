@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216336801311",
+    "firebase_url": "https://voicechat-8db41.firebaseio.com",
+    "project_id": "voicechat-8db41",
+    "storage_bucket": "voicechat-8db41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216336801311:android:174d97db36dcc29abd3f2a",
+        "android_client_info": {
+          "package_name": "com.example.phonecallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216336801311-1srpe91uj27bmkd92nf9pf41cbmfot4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5vxtWhHQY-OWeWcgyKhxh7gEO9eNghAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216336801311-1srpe91uj27bmkd92nf9pf41cbmfot4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
